@@ -1,0 +1,1 @@
+This project is designed to help chart seating for the Marine Corps Ball.  Once the Marine has paided for his tickets the seating administrator can assign him seats.  In the future this may allow the Marine to choose the seat.
